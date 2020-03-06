@@ -26,3 +26,5 @@ end
 def find_a(letter)
   letter.find_all {|x| x[0] == "a"}
 end
+
+def sum_array(array)
