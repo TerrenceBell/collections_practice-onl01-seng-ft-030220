@@ -20,6 +20,6 @@ def reverse_array(array)
 end
 
 def kesha_maker(array)
-  array.each do{|third| thrid[2] == "$"}
+  array.each {|third| thrid[2] == "$"}
  end 
 end 
